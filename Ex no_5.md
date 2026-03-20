@@ -14,8 +14,8 @@ Display the total marks, average, and percentage, then end the program.
 ```
 /*
 Program to calculate the total marks, average, and percentage of marks obtained in seven subjects.
-Developed by: Nareshkumaran S
-RegisterNumber: 212222060159
+Developed by: KAMALI S
+RegisterNumber: 212222060109
 */
 
 #include <stdio.h>
